@@ -1,0 +1,2 @@
+pandoc rapport-b.tex -f latex -t html -s -o rapport.html
+
