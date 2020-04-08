@@ -1,0 +1,43 @@
+sécance IRAMUTEQ 11.03.20
+
+Paramètres à l'import :
+ - taille segment de texte (par défaut 40): parametre important qui caractérise les articles utile à fine tuner
+
+1) lancer statistique (nuage de point orange)  -> pour se donner une idée
+ - oui lématisation
+ 
+ hapax : mot unique (non reconnu)
+ forme active : ce qui est intéressant
+
+2) classification hierarchique descendante(bouton vert) 
+ - paramêtre important : nombre de classe terminale de la phase 1 (habituellement >10, plus il y a de classe plus cela prend du temps)
+
+Comparaison de sac des mots et calcul de similarité
+
+3) AFC : analyse factorielle de correspondance
+! les axes n'ont pas de sens, en dessous de 10 % le facteur n'a plus de sens, 30-40 % fiable
+
+Profile:
+	on peut voir le contexte du mot -> permet de comprendre la nature des classes dans le corpus 
+
+	on peut voir le chi2 , attraction et répulsion. -> donne un avis sur le nombre de classes
+
+clic droit sur classification hierarchique descendante -> corpus en couleur
+	ça génère un fichier html, qui colore les segments selonn la classe. 
+
+AFC sur méta-donnée : on peut juger de l'évolution éditoriale des journaux : (ex : contenu par page ou contenu par période)
+
+analyswe de similitude (logo gris)
+
+	parametres : 
+		- arbre maximum : problème arbre lisible mais pas intéressant et évident, mais plus facile à calculer, on a une seule relation par point, ça ne va vraiment pas très loin dans l'analyse
+				  souvent plus intéressant de décocher -> arbre de toutes les co-occurences
+		
+		bien de prendre les mots qui apparaissent plus qu'une certaine fréquence
+
+		- arbre de toutes les co-occurences (arbre très dense)
+			exporter avec fichier graph.ml -> ouvrir avec gephi
+			de base ils sont tous l'un sur l'autre -> spacialisation -> pour y voir mieux 			
+			aspect -> changer de couleur pour lisibilité, couleur des edges en fonction du poids
+			on peut afficher en plus gros les nodes les plus importants, avec degrée pondérer
+			filtrer : filtre, lien -> poids des liens-> enlever les liens faible -> filtrer
