@@ -1,3 +1,6 @@
+#!/bin/bash
+# Parses the necessary data for the project
+
 # Get whole data from impresso (to fine tune)
 mkdir complete
 for i in GDL-191* JDG-191* NZZ-191* GDL-1920* JDG-1920* NZZ-1920*
