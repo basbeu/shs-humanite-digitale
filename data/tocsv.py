@@ -11,6 +11,7 @@ def read_jsonlines(bz2_file):
 # Transform to pandas DataFrame
 journal = []
 date = []
+page = []
 title = []
 fulltext = []
 
@@ -26,6 +27,7 @@ for archive in os.listdir(input_dir):
         if (article_dict['title'] or (article_dict['id'][:3] == 'NZZ')) and article_dict['fulltext']:
             journal.append(article_dict['id'][:3])
             date.append(article_dict['date'])
+            page.append(article_dict['page'])
             title.append(article_dict['title'])
             fulltext.append(article_dict['fulltext'])
 
@@ -33,8 +35,9 @@ df = pd.DataFrame.from_dict(
 {
     'journal': journal,
     'date': date,
+    'page': page,
     'title': title,
-    'fulltext':fulltext,
+    'fulltext': fulltext,
 })
 
 # Save results to .csv file

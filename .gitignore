@@ -1,7 +1,9 @@
 data/complete
 data/reduced
 data/data.csv
-analyse/iramuteq
+data/data.csv.tgz
+analyse/iramuteq/*
+!analyse/iramuteq/.keep
 
 ### LATEX ###
 
