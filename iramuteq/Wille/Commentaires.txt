@@ -1,0 +1,59 @@
+1914 :
+ - violette : classe rien à voir
+ - bleue : Armée allemande, stratégie militaire, attaque,
+ - rouge : politique, influence allemande, neutralité
+ - verte : travail du parlement, gouvernement
+ - grise : juridique, loi
+
+Wille est dans la même classe que allemand. 
+En parcourant le corpus en couleur, on peut voir que dans la classe rouge : la question est posée si l'armée n'est pas sous influence allemande, mais par contre politique serait neutre et intérêt de la suisse.
+En bleu aussi, on se pose la question de la relation armée allemande et suisse.
+
+Dans le corpus en couleur j'ai trouvé ces constatations surtout au milieu de l'année 1914.
+
+
+1915:
+ - rouge : armée
+ - bleue claire : critiques des suisse allemands, neutralité
+ - bleue foncée : libertés, gouvernance de l'armée, remise en question
+ - verte : compte rendu (pas très intéressant)
+ - grise : travail du parlement, gouvernement
+  
+Le mot allemand n'apparait plus avec Wille.
+classes bleues et bleues claires sont les plus intéressantes et remettent en cause neutralité ou défendent neutralité. Soupçon directement sur le général Wille.
+
+Exemple en bleu clair : "les suisses romands ont fait leur devoir en dénonçant le péril et en se désolidarisant des fautes commises depuis deux ans les suisses allemands ont fait de leur côté un pas vers nous nous sommes convaincus que cette née portera de bons fruits"
+
+1916 :
+ - rouge : affaire des colonels
+ - violette : travail du parlement, gouvernement
+ - bleue : parti radical
+ - bleue claire : menace à la démocratie
+ - grise : militaire-politique
+ - verte : compte-rendus
+
+hyper intéressant d'avoir l'affaire des colonels qui resort clairement
+
+1917 :
+ - verte : juridique, loi
+ - rouge : affaire hoffmann-Grimm, neutralité suisse
+ - bleue claire : politique
+ - violette : armée
+
+1918 :
+ - bleue foncée : grippe espagnole
+ - violette : politique suisse
+ - grise : événements sportifs / culturels
+ - verte : politique fédérale et internationale
+ - rouge : affaires, enquête, 
+ - bleue claire : travail du parlement, gouvernement
+
+Pistes :
+- j'ai remarqué que le nom Willemin apparaissait plusieurs fois (au moins 1915,1916,1917,1918), c'était un conseiller national Genevois de cette époque, du parti radical et donc apparement il était bcp cité.
+- Il y a sûrement d'autres politicien cité, ça peut être un angle d'approche.
+- il y a des événements sportifs qui sont cité, ils apparaissent parce que soit Wille y était présent soit y a été honoré (mentionné), peut-être qu'il y a quelques choses à faire de ce côté là
+- bcp de mention des radicaux, je ne me souviens pas bien mais ça doit coincider avec la ligne éditorial des journaux analysées
+
+
+
+
